@@ -7,3 +7,6 @@
 [submodule "companions/hcptrt.stimuli"]
 	path = companions/hcptrt.stimuli
 	url = git@github.com:courtois-neuromod/hcptrt.stimuli
+[submodule "companions/hcptrt.task_extractor"]
+	path = companions/hcptrt.task_extractor
+	url = git@github.com:courtois-neuromod/hcptrt_task_extractor
