@@ -1,0 +1,9 @@
+[submodule "hcptrt"]
+	path = hcptrt
+	url = git@github.com:courtois-neuromod/hcptrt
+[submodule "hcptrt.fmriprep"]
+	path = hcptrt.fmriprep
+	url = git@github.com:courtois-neuromod/hcptrt.fmriprep
+[submodule "companions/hcptrt.stimuli"]
+	path = companions/hcptrt.stimuli
+	url = git@github.com:courtois-neuromod/hcptrt.stimuli
